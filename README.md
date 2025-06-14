@@ -41,7 +41,7 @@ This project focuses on building a **Spam Detection Model** using **Natural Lang
 ## 🚀 How to Use This Notebook
 
 1. Open in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+   [![Open In Colab](https://colab.research.google.com/drive/1jxSQpv2NkG4c9rkLjaHd6jadvqoWlVRG?usp=sharing)
 
 2. Upload the notebook `Spam_Ham_NLTK_Project_using_BOW.ipynb` to your Colab environment.
 
